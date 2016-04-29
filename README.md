@@ -27,7 +27,7 @@ Open your `Terminal`. We assume that [brew](http://brew.sh/) is already installe
     brew cask install virtualbox
 ```
 ### Windows
-- You need to manually install git, virtualbox, and vagrant via internet from the installation links provided above. Afterwards, open your `Command Prompt` to check that the following are up and running properly:
+You need to manually install git, virtualbox, and vagrant via internet from the installation links provided above. Afterwards, open your `Command Prompt` to check that the following are up and running properly:
 ```
 git --version
 vagrant --version
@@ -41,4 +41,4 @@ cd ole--vagrant-bells/release
 vagrant up
 ```
 
-You now have a working [communityBeLL](http://127.0.0.1:5985rapps/_design/bell/MyApp/index.html) on your OS.
+You now have a working [communityBeLL](http://127.0.0.1:5985/apps/_design/bell/MyApp/index.html) on your OS.
