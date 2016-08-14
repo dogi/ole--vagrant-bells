@@ -1,6 +1,6 @@
 # ole--vagrant-bells
 
-ole--vagrant-bells gives users the ability to install fast their own community [BeLL](https://github.com/open-learning-exchange/BeLL-Apps) (Basic e-Learning Library) on their computer. 
+ole--vagrant-bells gives users the ability to quickly install their own community [BeLL](https://github.com/open-learning-exchange/BeLL-Apps) (Basic e-Learning Library) on their computer. 
 
 ## Requirements
 - Install [git](https://git-scm.com/downloads)
