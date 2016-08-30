@@ -29,7 +29,11 @@ Open your `Terminal`. We assume that [brew](http://brew.sh/) is already installe
 ```
 
 ### Windows
-You need to manually install git, virtualbox, and vagrant via internet from the installation links provided above. Afterwards, open your `Command Prompt` to check that the following are up and running properly:
+You need to manually install git, virtualbox, and vagrant via internet from the installation links provided above. To use virtualbox  and Git in the command line you have to make sure they are in your system Path.
+
+To use virtualbox in the command promp vboxmanage virtualbox to your path >> here are the steps
+
+Afterwards, open your `Command Prompt` to check that the following are up and running properly:
 ```sh
 git --version
 vagrant --version
