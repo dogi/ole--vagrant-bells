@@ -31,7 +31,19 @@ Open your `Terminal`. We assume that [brew](http://brew.sh/) is already installe
 ### Windows
 You need to manually install git, virtualbox, and vagrant via internet from the installation links provided above. To use virtualbox  and Git in the command line you have to make sure they are in your system Path.
 
-To use virtualbox in the command promp vboxmanage virtualbox to your path >> here are the steps
+To use virtualbox in the command prompt add vboxmanage to your path. Follow these steps:
+
+- Right click on Computer
+
+- Click on Properties
+
+- Click on Advanced System Settings which opens up a pop up box
+
+- Click on Environment Variables
+
+- Click Edit User variables
+
+- Click new then browse the directory where your executable is located and click ok
 
 Afterwards, open your `Command Prompt` to check that the following are up and running properly:
 ```sh
