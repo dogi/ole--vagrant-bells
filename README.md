@@ -49,7 +49,9 @@ To use virtualbox in the command prompt add vboxmanage to your path. Follow thes
 
 - Click on Environment Variables
 
-- Click Edit User variables
+- Click on Path in the System variables section
+
+- Click Edit System variables
 
 - Click new then browse the directory where your executable is located and click ok
 
