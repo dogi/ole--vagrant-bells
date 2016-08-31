@@ -36,6 +36,8 @@ Git has 3 options for path evnironment>> 3 options
 - the second option is to __ this will autmatically ad git
 - the thrids option is to ___ like the seonc optnion, this will autmacticallty add git
 
+![pic](http://i.stack.imgur.com/5szjG.png)
+
 
 To use virtualbox in the command prompt add vboxmanage to your path. Follow these steps:
 
