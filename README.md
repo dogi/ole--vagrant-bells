@@ -32,11 +32,12 @@ Open your `Terminal`. We assume that [brew](http://brew.sh/) is already installe
 You need to manually install git, virtualbox, and vagrant via internet from the installation links provided above. To use virtualbox  and Git in the Windows command line you have to make sure they are in your system Path.
 
 Git has 3 options for path evnironment:
-![pic](http://i.stack.imgur.com/5szjG.png)
 
 - The first option is to use Git Bash only. Git commands can only be used with Git Bash. Git will not be added to your system Path.
 - The second option is to run Git from the default Windows command prompt. This will add Git to your path.
 - The third option is the same as the second one but it also adds unix commands and tools.
+
+![pic](http://i.stack.imgur.com/5szjG.png)
 
 The first option makes the least changes to your system. However, the other two options are more convenient.
 
