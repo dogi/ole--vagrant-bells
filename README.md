@@ -51,6 +51,8 @@ To use virtualbox in the command prompt add vboxmanage to your path. Follow thes
 
 - Click new then browse the directory where your executable is located and click ok
 
+![pic](http://open-learning-exchange.github.io/pages/uploads/images/Environment-Variables.PNG)
+
 Afterwards, open your `Command Prompt` to check that the following are up and running properly:
 ```sh
 git --version
