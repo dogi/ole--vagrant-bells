@@ -59,7 +59,6 @@ To use virtualbox in the command prompt you must add it to your path. Follow the
 
 - Click new then browse the directory where your executable is located and click ok 
 
-![pic](http://open-learning-exchange.github.io/pages/uploads/images/Environment-Variables.PNG)
 
 If you used the first option to install git you can tecnically follow theses steps to add Git to your defualt command line.
 
